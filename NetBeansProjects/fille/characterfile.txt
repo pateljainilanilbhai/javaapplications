@@ -1,0 +1,2 @@
+this is example of text file by buffered reader
+my name is jainil
